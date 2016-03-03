@@ -2,8 +2,9 @@
 
 
 ## Importing the ZIP file into Android Studio
- - Download the ZIP file from the page unzip it
+ - Download the [ZIP file](https://github.com/trevorhalvorson/BikeShop/archive/master.zip) from this page
  - The project will be downloaded into a folder named `BikeShop-master`
+ - Unzip the project folder and remember the location
  - In Android Studio go to File -> New -> Import Project
  - Open the `BikeShop-master` project folder and import the `build.gradle` file
 
@@ -17,7 +18,7 @@ com.android.support:support-v4:23.2.0
 com.android.support:cardview-v7:23.2.0
 ```
 
- ## External Resources
+## External Resources
  - https://github.com/chrisbanes/cheesesquare
  - https://github.com/trevorhalvorson/ActorFlix
  - https://github.com/codepath/android_guides/wiki/Using-the-App-ToolBar
